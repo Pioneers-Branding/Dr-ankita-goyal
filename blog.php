@@ -1,5 +1,5 @@
 <?php
-$page_title = 'Health Blog | Dr. Ankita Bansal Goyal';
+$page_title = 'Health Blogs | Dr. Ankita Bansal Goyal';
 $base_url   = './';
 require_once 'header.php';
 
