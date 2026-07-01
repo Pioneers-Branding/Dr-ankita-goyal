@@ -14,7 +14,7 @@ header('Content-Type: application/json');
 $config = [
     'clinic_name' => 'Dr. Ankita Goyal Bansal - Laparoscopy Clinic',
     'clinic_email' => 'info@drankitalaparoscopy.in',
-    'clinic_phone' => '+91 98765 43210',
+    'clinic_phone' => '+91 96912 12570',
     'address' => 'Sankalp Hospital, Ambikapur, Chhattisgarh'
 ];
 

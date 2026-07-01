@@ -87,7 +87,7 @@
     </footer>
 
     <!-- WhatsApp Float Button -->
-    <a href="https://wa.me/919876543210" class="whatsapp-float" target="_blank" rel="noopener" aria-label="Chat on WhatsApp">
+    <a href="https://wa.me/919691212570" class="whatsapp-float" target="_blank" rel="noopener" aria-label="Chat on WhatsApp">
         <i class="fab fa-whatsapp"></i>
     </a>
 

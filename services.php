@@ -96,7 +96,7 @@ require_once 'header.php';
                         <i class="fas fa-phone"></i>
                         <div>
                             <strong>Phone</strong>
-                            <p>+91 98765 43210</p>
+                            <p>+91 96912 12570</p>
                         </div>
                     </div>
                 </div>

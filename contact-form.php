@@ -65,7 +65,7 @@
     
     <div class="form-group">
         <label for="side_phone">Phone Number *</label>
-        <input type="tel" id="side_phone" name="phone" required placeholder="+91 98765 43210" autocomplete="tel">
+        <input type="tel" id="side_phone" name="phone" required placeholder="+91 96912 12570" autocomplete="tel">
     </div>
     
     <div class="form-group">

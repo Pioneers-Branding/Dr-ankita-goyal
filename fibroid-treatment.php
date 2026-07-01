@@ -47,7 +47,7 @@ require_once 'header.php';
                 <p>Experience the latest in medical technology. Book an appointment below to discuss your condition.</p>
                 <div class="contact-details">
                     <div class="contact-item"><i class="fas fa-map-marker-alt"></i><div><strong>Location</strong><p>Sankalp Hospital, Ambikapur</p></div></div>
-                    <div class="contact-item"><i class="fas fa-phone"></i><div><strong>Phone</strong><p>+91 98765 43210</p></div></div>
+                    <div class="contact-item"><i class="fas fa-phone"></i><div><strong>Phone</strong><p>+91 96912 12570</p></div></div>
                 </div>
             </div>
             <div class="">

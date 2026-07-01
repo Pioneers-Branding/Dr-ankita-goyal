@@ -250,7 +250,7 @@ require_once 'header.php';
                 </div>
                 <div style="display: flex; margin-bottom: 15px;">
                     <i class="fas fa-phone-alt" style="color: var(--primary); font-size: 1.2rem; margin-right: 15px; margin-top: 4px;"></i>
-                    <p style="margin:0; font-size: 0.95rem;"><a href="tel:+919876543210" style="color: var(--text-color); text-decoration:none;">+91 98765 43210</a></p>
+                    <p style="margin:0; font-size: 0.95rem;"><a href="tel:+919691212570" style="color: var(--text-color); text-decoration:none;">+91 96912 12570</a></p>
                 </div>
                 <div style="display: flex;">
                     <i class="fas fa-clock" style="color: var(--primary); font-size: 1.2rem; margin-right: 15px; margin-top: 4px;"></i>
