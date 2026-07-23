@@ -4,7 +4,7 @@
  * Pure PHP Landing Page
  */
 
-$page_title = 'Laparoscopyy Treatment | Dr. Ankita Bansal Goyal';
+$page_title = 'Laparoscopy Treatment | Dr. Ankita Bansal Goyal';
 $base_url = './';
 
 require_once 'header.php';
