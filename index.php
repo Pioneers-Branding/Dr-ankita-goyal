@@ -4,7 +4,7 @@
  * Pure PHP Landing Page
  */
 
-$page_title = 'Laparoscopy Treatment | Dr. Ankita Bansal Goyal';
+$page_title = 'Laparoscopyy Treatment | Dr. Ankita Bansal Goyal';
 $base_url = './';
 
 require_once 'header.php';
@@ -16,13 +16,15 @@ require_once 'header.php';
         <div class="hero-content">
             <span class="hero-badge">MD, FMAS (PGIMER Chandigarh) – Sankalp Hospital</span>
             <h1>Best 3D Laparoscopic Surgeon in Ambikapur – <span>Dr. Ankita Bansal Goyal</span></h1>
-            <p>15+ years of clinical excellence in minimally invasive surgery, high-risk obstetrics, and comprehensive women's clinical care. Trusted by thousands of families across Chhattisgarh.</p>
-            
+            <p>15+ years of clinical excellence in minimally invasive surgery, high-risk obstetrics, and comprehensive
+                women's clinical care. Trusted by thousands of families across Chhattisgarh.</p>
+
             <div class="hero-btns">
-                <a href="#Contact" class="hero-btn btn-primary"><i class="fas fa-calendar-alt"></i> Book Consultation</a>
+                <a href="#Contact" class="hero-btn btn-primary"><i class="fas fa-calendar-alt"></i> Book
+                    Consultation</a>
                 <a href="about.php" class="hero-btn btn-outline"><i class="fas fa-user-md"></i> Meet Dr. Ankita</a>
             </div>
-            
+
             <div class="hero-stats">
                 <div class="stat-item">
                     <span class="stat-num">10,000+</span>
@@ -55,18 +57,24 @@ require_once 'header.php';
     <div class="container">
         <div class="about-grid">
             <div class="about-image">
-                <img src="images/dr-ankita-improved.png"
-                     alt="Dr. Ankita Bansal Goyal"
-                     class="about-img">
+                <img src="images/dr-ankita-improved.png" alt="Dr. Ankita Bansal Goyal" class="about-img">
             </div>
             <div class="about-content">
                 <span class="section-subtitle">ABOUT DR. ANKITA BANSAL GOYAL</span>
-                <h2>Meet Ambikapur's Expert in <mark>3D Laparoscopic & Women's Health</mark> — Only at Sankalp Hospital</h2>
+                <h2>Meet Ambikapur's Expert in <mark>3D Laparoscopic & Women's Health</mark> — Only at Sankalp Hospital
+                </h2>
 
                 <div class="about-text">
-                    <p>Dr. Ankita Bansal Goyal holds a degree of M.D and FMAS from PGIMER Chandigarh and is a highly skilled Obstetrician & Gynaecologist with specialised expertise in 3D Laparoscopic and Minimal Access Surgery.</p>
-                    <p>She is a trusted expert in women's health, known for her precision and advanced minimally invasive techniques. Dr. Ankita is committed to delivering compassionate care, ensuring patient safety, comfort, and faster recovery.</p>
-                    <p>Dr. Ankita treats conditions such as PCOS/PCOD, fibroids, ovarian cysts, endometriosis, hysterectomy, and high-risk pregnancies, with an emphasis on minimally invasive procedures, reduced discomfort, and quick recovery. Her approach combines clinical excellence with empathy, ensuring a smooth, safe, and personalised treatment journey for every woman.</p>
+                    <p>Dr. Ankita Bansal Goyal holds a degree of M.D and FMAS from PGIMER Chandigarh and is a highly
+                        skilled Obstetrician & Gynaecologist with specialised expertise in 3D Laparoscopic and Minimal
+                        Access Surgery.</p>
+                    <p>She is a trusted expert in women's health, known for her precision and advanced minimally
+                        invasive techniques. Dr. Ankita is committed to delivering compassionate care, ensuring patient
+                        safety, comfort, and faster recovery.</p>
+                    <p>Dr. Ankita treats conditions such as PCOS/PCOD, fibroids, ovarian cysts, endometriosis,
+                        hysterectomy, and high-risk pregnancies, with an emphasis on minimally invasive procedures,
+                        reduced discomfort, and quick recovery. Her approach combines clinical excellence with empathy,
+                        ensuring a smooth, safe, and personalised treatment journey for every woman.</p>
                 </div>
 
                 <div class="about-features">
@@ -115,12 +123,14 @@ require_once 'header.php';
             <a href="gynecological-surgery.php" class="service-card">
                 <img src="images/treatment-2.png" alt="Gynecological Surgery">
                 <h3>Gynecological Surgery</h3>
-                <p>Comprehensive surgical solutions for various gynecological conditions with minimally invasive techniques.</p>
+                <p>Comprehensive surgical solutions for various gynecological conditions with minimally invasive
+                    techniques.</p>
             </a>
             <a href="pcos-pcod-treatment.php" class="service-card">
                 <img src="images/treatment-3.png" alt="PCOS Treatment">
                 <h3>PCOS/PCOD Treatment</h3>
-                <p>Effective management of Polycystic Ovary Syndrome using latest diagnostic and treatment protocols.</p>
+                <p>Effective management of Polycystic Ovary Syndrome using latest diagnostic and treatment protocols.
+                </p>
             </a>
             <a href="fibroid-treatment.php" class="service-card">
                 <img src="images/treatment-4.png" alt="Fibroid Treatment">
@@ -155,7 +165,11 @@ require_once 'header.php';
             </div>
             <div class="tech-content">
                 <h3>Ambikapur's First & Only 3D<br>Rubina Laser Machine</h3>
-                <p>Sankalp's advanced surgical system combines 4K and 3D camera technology with real-time fluorescence imaging for safer, more precise surgeries. Think of it like mobile cameras—just as a photo from a 100-megapixel camera is much clearer than one from 2 megapixels, this high-tech system gives surgeons an ultra-detailed view inside the body. That means smaller cuts, less pain, and a quicker recovery for patients—all with the latest imaging, in one streamlined platform</p>
+                <p>Sankalp's advanced surgical system combines 4K and 3D camera technology with real-time fluorescence
+                    imaging for safer, more precise surgeries. Think of it like mobile cameras—just as a photo from a
+                    100-megapixel camera is much clearer than one from 2 megapixels, this high-tech system gives
+                    surgeons an ultra-detailed view inside the body. That means smaller cuts, less pain, and a quicker
+                    recovery for patients—all with the latest imaging, in one streamlined platform</p>
             </div>
         </div>
     </div>
@@ -201,9 +215,13 @@ require_once 'header.php';
             <div class="social-content">
                 <span class="section-subtitle">OUR SOCIAL PROFILE</span>
                 <h2>Stay Updated on <mark>Women's Health & 3D Laparoscopy</mark></h2>
-                <p>Follow us on Instagram for women's health tips, insights on minimally invasive surgery, and updates on the latest in gynecological care. From patient stories to recovery tips, we share everything you need to feel informed, safe, and confident about your health.</p>
-                <p>Whether you're exploring treatment options or preparing for surgery, our page is your trusted space for expert advice, patient experiences, and wellness inspiration in Ambikapur.</p>
-                <a href="https://www.instagram.com/drankitabansalgoyal/" class="btn btn-primary" target="_blank" rel="noopener">
+                <p>Follow us on Instagram for women's health tips, insights on minimally invasive surgery, and updates
+                    on the latest in gynecological care. From patient stories to recovery tips, we share everything you
+                    need to feel informed, safe, and confident about your health.</p>
+                <p>Whether you're exploring treatment options or preparing for surgery, our page is your trusted space
+                    for expert advice, patient experiences, and wellness inspiration in Ambikapur.</p>
+                <a href="https://www.instagram.com/drankitabansalgoyal/" class="btn btn-primary" target="_blank"
+                    rel="noopener">
                     Follow Us on Instagram <i class="fas fa-arrow-right"></i>
                 </a>
             </div>
@@ -235,7 +253,9 @@ require_once 'header.php';
                         <i class="fas fa-plus"></i>
                     </button>
                     <div class="faq-answer">
-                        <p>3D laparoscopy is an advanced surgical technique that uses three-dimensional imaging to provide surgeons with depth perception during procedures. This allows for more precise movements and better outcomes compared to traditional 2D laparoscopy.</p>
+                        <p>3D laparoscopy is an advanced surgical technique that uses three-dimensional imaging to
+                            provide surgeons with depth perception during procedures. This allows for more precise
+                            movements and better outcomes compared to traditional 2D laparoscopy.</p>
                     </div>
                 </div>
                 <div class="faq-item">
@@ -244,7 +264,9 @@ require_once 'header.php';
                         <i class="fas fa-plus"></i>
                     </button>
                     <div class="faq-answer">
-                        <p>Laparoscopic surgery offers numerous benefits including smaller incisions, less pain, faster recovery, reduced scarring, shorter hospital stays, and lower risk of complications compared to traditional open surgery.</p>
+                        <p>Laparoscopic surgery offers numerous benefits including smaller incisions, less pain, faster
+                            recovery, reduced scarring, shorter hospital stays, and lower risk of complications compared
+                            to traditional open surgery.</p>
                     </div>
                 </div>
                 <div class="faq-item">
@@ -253,7 +275,9 @@ require_once 'header.php';
                         <i class="fas fa-plus"></i>
                     </button>
                     <div class="faq-answer">
-                        <p>Recovery time varies depending on the procedure, but most patients can return to normal activities within 1-2 weeks after laparoscopic surgery, compared to 4-6 weeks for traditional open surgery.</p>
+                        <p>Recovery time varies depending on the procedure, but most patients can return to normal
+                            activities within 1-2 weeks after laparoscopic surgery, compared to 4-6 weeks for
+                            traditional open surgery.</p>
                     </div>
                 </div>
                 <div class="faq-item">
@@ -262,7 +286,9 @@ require_once 'header.php';
                         <i class="fas fa-plus"></i>
                     </button>
                     <div class="faq-answer">
-                        <p>Yes, laparoscopy is considered very safe when performed by experienced surgeons. The minimally invasive approach reduces the risk of infections, blood loss, and other complications.</p>
+                        <p>Yes, laparoscopy is considered very safe when performed by experienced surgeons. The
+                            minimally invasive approach reduces the risk of infections, blood loss, and other
+                            complications.</p>
                     </div>
                 </div>
                 <div class="faq-item">
@@ -271,7 +297,8 @@ require_once 'header.php';
                         <i class="fas fa-plus"></i>
                     </button>
                     <div class="faq-answer">
-                        <p>Laparoscopy can treat various conditions including endometriosis, ovarian cysts, fibroids, ectopic pregnancy, hysterectomy, and many other gynecological conditions.</p>
+                        <p>Laparoscopy can treat various conditions including endometriosis, ovarian cysts, fibroids,
+                            ectopic pregnancy, hysterectomy, and many other gynecological conditions.</p>
                     </div>
                 </div>
             </div>
@@ -291,7 +318,8 @@ require_once 'header.php';
             <div class="testimonial-card">
                 <div class="testimonial-content">
                     <i class="fas fa-quote-left"></i>
-                    <p>Dr. Ankita and her team made me feel so comfortable throughout my procedure. The 3D laparoscopy was minimally invasive and I recovered so much faster than I expected. Highly recommend!</p>
+                    <p>Dr. Ankita and her team made me feel so comfortable throughout my procedure. The 3D laparoscopy
+                        was minimally invasive and I recovered so much faster than I expected. Highly recommend!</p>
                 </div>
                 <div class="testimonial-author">
                     <strong>Priya S.</strong>
@@ -301,7 +329,8 @@ require_once 'header.php';
             <div class="testimonial-card">
                 <div class="testimonial-content">
                     <i class="fas fa-quote-left"></i>
-                    <p>After years of suffering from PCOS, I finally found relief with Dr. Ankita's treatment. Her expertise in laparoscopic surgery gave me hope. I'm now healthy and happy!</p>
+                    <p>After years of suffering from PCOS, I finally found relief with Dr. Ankita's treatment. Her
+                        expertise in laparoscopic surgery gave me hope. I'm now healthy and happy!</p>
                 </div>
                 <div class="testimonial-author">
                     <strong>Anita M.</strong>
@@ -311,7 +340,8 @@ require_once 'header.php';
             <div class="testimonial-card">
                 <div class="testimonial-content">
                     <i class="fas fa-quote-left"></i>
-                    <p>The care I received at Sankalp Hospital was exceptional. Dr. Ankita is not just a skilled surgeon but also very compassionate. My fibroid was removed laparoscopically with no complications.</p>
+                    <p>The care I received at Sankalp Hospital was exceptional. Dr. Ankita is not just a skilled surgeon
+                        but also very compassionate. My fibroid was removed laparoscopically with no complications.</p>
                 </div>
                 <div class="testimonial-author">
                     <strong>Sunita R.</strong>
@@ -333,7 +363,8 @@ require_once 'header.php';
         <div class="contact-grid">
             <div class="contact-info">
                 <h3>Stay Connected with Dr. Ankita</h3>
-                <p>Have questions or ready to book an appointment? Reach out to us through any of the channels below.</p>
+                <p>Have questions or ready to book an appointment? Reach out to us through any of the channels below.
+                </p>
 
                 <div class="contact-details">
                     <div class="contact-item">
