@@ -4,14 +4,6 @@ $base_url   = './';
 require_once 'header.php';
 
 $blogs = [
-     [
-    'image' => 'images/best-gynecologist-in-ambikapur-dr-ankita-bansal-goyal.jpg',
-    'category' => 'Women\'s Health',
-    'date' => 'July 27, 2026',
-    'title' => 'Best Gynecologist in Ambikapur: Complete Guide for Women in Surguja',
-    'excerpt' => 'Pregnancy care, normal delivery, PCOS, fibroids and 3D laparoscopic surgery — consultation fees, clinic timings, scan schedule and how to book, answered plainly.',
-    'slug' => 'blog/best-gynecologist-in-ambikapur.php',
-],
     [
         'image'    => 'images/laparoscopy_insurance.png',
         'category' => 'Insurance & Cost',
