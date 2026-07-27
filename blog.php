@@ -188,6 +188,14 @@ $blogs = [
         'excerpt'  => 'Fertility, hormone levels, and cycle patterns all shift after 35. Learn how to stay proactive about your reproductive health at every stage.',
         'slug'     => 'blog/reproductive-health-after-35',
     ],
+    [
+    'image' => 'images/best-gynecologist-in-ambikapur-dr-ankita-bansal-goyal.jpg',
+    'category' => 'Women\'s Health',
+    'date' => 'July 27, 2026',
+    'title' => 'Best Gynecologist in Ambikapur: Complete Guide for Women in Surguja',
+    'excerpt' => 'Pregnancy care, normal delivery, PCOS, fibroids and 3D laparoscopic surgery — consultation fees, clinic timings, scan schedule and how to book, answered plainly.',
+    'slug' => 'blog/best-gynecologist-in-ambikapur',
+],
 ];
 
 $per_page    = 9;
