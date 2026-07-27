@@ -2,9 +2,9 @@
 $page_title = 'Best Gynecologist in Ambikapur (2026) | Dr. Ankita Bansal Goyal';
 $page_description = 'Looking for the best gynecologist in Ambikapur? Dr. Ankita Bansal Goyal (MD, FMAS - PGIMER Chandigarh) offers pregnancy care, normal delivery, PCOS, fibroid and 3D laparoscopic surgery at Sankalp Hospital. Mon-Sat 9AM-5PM. Call 096912 12570.';
 $page_keywords = 'best gynecologist in Ambikapur, gynecologist in Ambikapur Chhattisgarh, lady doctor in Ambikapur, female gynecologist in Ambikapur, top gynaecologist Ambikapur, best gynecologist doctor in Surguja, obstetrician and gynecologist Ambikapur, maternity hospital in Ambikapur, PCOS treatment in Ambikapur, normal delivery hospital in Ambikapur, high risk pregnancy specialist Ambikapur, irregular periods treatment Ambikapur, gynecologist consultation fees in Ambikapur, Ambikapur me best lady doctor, mahila doctor Ambikapur Chhattisgarh';
-$canonical_url = 'https://drankitalaparoscopy.in/best-gynecologist-in-ambikapur.php';
-$base_url = './';
-require_once 'header.php';
+$canonical_url = 'https://drankitalaparoscopy.in/blog/best-gynecologist-in-ambikapur';
+$base_url = '../';
+require_once '../header.php';
 ?>
 
 <!--
@@ -471,4 +471,4 @@ require_once 'header.php';
 }
 </style>
 
-<?php require_once 'footer.php'; ?>
+<?php require_once '../footer.php'; ?>
