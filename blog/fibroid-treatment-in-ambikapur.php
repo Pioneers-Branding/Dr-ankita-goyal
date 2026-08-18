@@ -3,7 +3,7 @@ $post_title     = 'Fibroid Treatment in Ambikapur: Do You Really Need Surgery?';
 $post_category  = 'Fibroids';
 $post_date      = 'August 11, 2026';
 $post_read_time = '9 min read';
-$post_image     = 'images/fibroid-treatment-in-ambikapur.jpg';
+$post_image     = 'images/fibroid-treatment-in-ambikapur.png';
 $post_tags      = ['Fibroids', 'Uterine Health', 'Laparoscopy', 'Heavy Bleeding', 'Myomectomy'];
 $post_prev      = ['title' => 'PCOS Treatment in Ambikapur', 'slug' => 'pcos-treatment-in-ambikapur'];
 $post_next      = null;
