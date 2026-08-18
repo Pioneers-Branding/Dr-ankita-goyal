@@ -3,7 +3,7 @@ $post_title     = 'PCOS Treatment in Ambikapur: Symptoms, Tests and What Actuall
 $post_category  = "Women's Health";
 $post_date      = 'August 11, 2026';
 $post_read_time = '9 min read';
-$post_image     = 'images/pcos-treatment-in-ambikapur.jpg';
+$post_image = 'images/pcos treatment in ambikapur.png';
 $post_tags      = ['PCOS', 'PCOD', 'Irregular Periods', 'Hormonal Health', 'Fertility'];
 $post_prev      = ['title' => 'Best Gynecologist in Ambikapur', 'slug' => 'best-gynecologist-in-ambikapur'];
 $post_next      = ['title' => 'Fibroid Treatment in Ambikapur', 'slug' => 'fibroid-treatment-in-ambikapur'];
