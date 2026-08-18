@@ -5,6 +5,14 @@ require_once 'header.php';
 
 $blogs = [
       [
+    'image' => 'images/fibroid-treatment-in-ambikapur.png',
+    'category' => 'Fibroids',
+    'date' => 'August 18, 2026',
+    'title' => 'Fibroid Treatment in Ambikapur',
+    'excerpt' => 'Learn about uterine fibroid symptoms, diagnosis, treatment options and advanced gynecological care in Ambikapur.',
+    'slug' => 'blog/fibroid-treatment-in-ambikapur',
+],
+      [
     'image' => 'images/pcos treatment in ambikapur.png',
     'category' => "Women's Health",
     'date' => 'August 11, 2026',
