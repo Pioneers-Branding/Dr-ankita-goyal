@@ -5,7 +5,7 @@ require_once 'header.php';
 
 $blogs = [
       [
-    'image' => 'images/fibroid-treatment-in-ambikapur.png',
+    'image' => 'images/Fibroid Treatment in Ambikapur.png',
     'category' => 'Fibroids',
     'date' => 'August 18, 2026',
     'title' => 'Fibroid Treatment in Ambikapur',
