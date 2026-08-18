@@ -4,6 +4,14 @@ $base_url   = './';
 require_once 'header.php';
 
 $blogs = [
+      [
+    'image' => 'images/pcos treatment in ambikapur.png',
+    'category' => "Women's Health",
+    'date' => 'August 11, 2026',
+    'title' => 'PCOS Treatment in Ambikapur: Symptoms, Tests and What Actually Works',
+    'excerpt' => 'A complete guide to PCOS treatment in Ambikapur covering symptoms, diagnosis, treatment options, diet, fertility and costs.',
+    'slug' => 'blog/pcos-treatment-in-ambikapur',
+],
     [
     'image' => 'images/best-gynecologist-in-ambikapur-dr-ankita-bansal-goyal.jpg',
     'category' => "Women's Health",
@@ -196,14 +204,7 @@ $blogs = [
         'excerpt'  => 'Fertility, hormone levels, and cycle patterns all shift after 35. Learn how to stay proactive about your reproductive health at every stage.',
         'slug'     => 'blog/reproductive-health-after-35',
     ],
-    [
-    'image' => 'images/pcos treatment in ambikapur.png',
-    'category' => "Women's Health",
-    'date' => 'August 11, 2026',
-    'title' => 'PCOS Treatment in Ambikapur: Symptoms, Tests and What Actually Works',
-    'excerpt' => 'A complete guide to PCOS treatment in Ambikapur covering symptoms, diagnosis, treatment options, diet, fertility and costs.',
-    'slug' => 'blog/pcos-treatment-in-ambikapur',
-],
+  
 ];
 
 $per_page    = 9;
