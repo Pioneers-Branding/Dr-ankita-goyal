@@ -20,7 +20,7 @@ require_once 'header.php';
                 women's clinical care. Trusted by thousands of families across Chhattisgarh.</p>
 
             <div class="hero-btns">
-                <a href="#Contact" class="hero-btn btn-primary"><i class="fas fa-calendar-alt"></i> Book
+                <a href="https://www.clinicspots.com/doctor/dr-ankita-bansal-goyal" class="hero-btn btn-primary"><i class="fas fa-calendar-alt"></i> Book
                     Consultation</a>
                 <a href="about.php" class="hero-btn btn-outline"><i class="fas fa-user-md"></i> Meet Dr. Ankita</a>
             </div>
