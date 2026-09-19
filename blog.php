@@ -19,7 +19,7 @@ $blogs = [
     'date' => 'September 19, 2026',
     'title' => 'High Blood Pressure During Pregnancy',
     'excerpt' => 'Understand high blood pressure during pregnancy, important warning signs, possible risks and why regular antenatal monitoring is important.',
-    'slug' => 'blog/high-blood-pressure-during-pregnancy.php',
+    'slug' => 'blog/high-blood-pressure-during-pregnancy',
 ],
 
 [
@@ -28,7 +28,7 @@ $blogs = [
     'date' => 'September 19, 2026',
     'title' => 'High-Risk Pregnancy Warning Signs',
     'excerpt' => 'Learn about important warning signs during a high-risk pregnancy and when medical evaluation may be needed.',
-    'slug' => 'blog/warning-signs-of-high-risk-pregnancy.php',
+    'slug' => 'blog/warning-signs-of-high-risk-pregnancy',
 ],
 
 [
