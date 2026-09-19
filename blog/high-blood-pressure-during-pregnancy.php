@@ -8,7 +8,7 @@ $post_title     = 'High Blood Pressure During Pregnancy: Symptoms, Risks and Whe
 $post_category  = 'Pregnancy Care';
 $post_date      = 'September 19, 2026';
 $post_read_time = '9 min read';
-$post_image     = 'images/high-blood-pressure-during-pregnancy.jpg';
+$post_image     = 'images/Dr. Ankita Goyal Bansal - High Blood Pressure During Pregnancy.png',
 $post_tags      = ['Preeclampsia', 'Blood Pressure', 'High-Risk Pregnancy', 'Antenatal Care', 'Raipur'];
 $post_prev      = ['title' => 'Warning Signs of a High-Risk Pregnancy', 'slug' => 'warning-signs-of-high-risk-pregnancy'];
 $post_next      = ['title' => 'Low Hemoglobin During Pregnancy', 'slug' => 'low-hemoglobin-during-pregnancy'];
