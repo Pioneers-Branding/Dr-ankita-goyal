@@ -4,13 +4,13 @@ $base_url   = './';
 require_once 'header.php';
 
 $blogs = [
-      [
+     [
     'image' => 'images/Dr. Ankita Goyal Bansal - Gestational Diabetes During Pregnancy.png',
     'category' => 'Pregnancy Care',
     'date' => 'September 19, 2026',
     'title' => 'Gestational Diabetes During Pregnancy',
     'excerpt' => 'Learn about gestational diabetes during pregnancy, screening, risk factors, possible complications and the importance of regular medical care.',
-    'slug' => 'blog/gestational-diabetes-during-pregnancy',
+    'slug' => 'blog/gestational-diabetes-during-pregnancy.php',
 ],
 
 [
@@ -19,7 +19,7 @@ $blogs = [
     'date' => 'September 19, 2026',
     'title' => 'High Blood Pressure During Pregnancy',
     'excerpt' => 'Understand high blood pressure during pregnancy, important warning signs, possible risks and why regular antenatal monitoring is important.',
-    'slug' => 'blog/high-blood-pressure-during-pregnancy',
+    'slug' => 'blog/high-blood-pressure-during-pregnancy.php',
 ],
 
 [
@@ -28,7 +28,7 @@ $blogs = [
     'date' => 'September 19, 2026',
     'title' => 'High-Risk Pregnancy Warning Signs',
     'excerpt' => 'Learn about important warning signs during a high-risk pregnancy and when medical evaluation may be needed.',
-    'slug' => 'blog/high-risk-pregnancy-warning-signs',
+    'slug' => 'blog/high-risk-pregnancy-warning-signs.php',
 ],
 
 [
@@ -37,7 +37,7 @@ $blogs = [
     'date' => 'September 19, 2026',
     'title' => 'Low Hemoglobin During Pregnancy',
     'excerpt' => 'Learn about low hemoglobin during pregnancy, common causes, symptoms, testing, nutrition and medical management.',
-    'slug' => 'blog/low-hemoglobin-during-pregnancy',
+    'slug' => 'blog/low-hemoglobin-during-pregnancy.php',
 ],
       [
     'image' => 'images/Fibroid Treatment in Ambikapur.png',
