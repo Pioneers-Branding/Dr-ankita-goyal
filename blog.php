@@ -28,7 +28,7 @@ $blogs = [
     'date' => 'September 19, 2026',
     'title' => 'High-Risk Pregnancy Warning Signs',
     'excerpt' => 'Learn about important warning signs during a high-risk pregnancy and when medical evaluation may be needed.',
-    'slug' => 'blog/high-risk-pregnancy-warning-signs.php',
+    'slug' => 'blog/warning-signs-of-high-risk-pregnancy.php',
 ],
 
 [
