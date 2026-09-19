@@ -8,7 +8,7 @@ $post_title     = 'What Are the Warning Signs of a High-Risk Pregnancy? A Guide 
 $post_category  = 'Pregnancy Care';
 $post_date      = 'September 19, 2026';
 $post_read_time = '9 min read';
-$post_image     = 'images/warning-signs-of-high-risk-pregnancy.jpg';
+$post_image     = 'images/Dr. Ankita Goyal Bansal - High-Risk Pregnancy Warning Signs.png';
 $post_tags      = ['High-Risk Pregnancy', 'Warning Signs', 'Antenatal Care', 'Pregnancy Safety', 'Raipur'];
 $post_prev      = ['title' => 'Fibroid Treatment in Ambikapur', 'slug' => 'fibroid-treatment-in-ambikapur'];
 $post_next      = ['title' => 'High Blood Pressure During Pregnancy', 'slug' => 'high-blood-pressure-during-pregnancy'];
