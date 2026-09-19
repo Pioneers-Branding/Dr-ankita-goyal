@@ -8,7 +8,7 @@ $post_title     = 'Low Hemoglobin During Pregnancy: Why It Happens and How It Ca
 $post_category  = 'Pregnancy Care';
 $post_date      = 'September 19, 2026';
 $post_read_time = '9 min read';
-$post_image     = 'images/low-hemoglobin-during-pregnancy.jpg';
+$post_image     = 'images/Dr. Ankita Goyal Bansal - Low Hemoglobin During Pregnancy.png';
 $post_tags      = ['Anaemia', 'Hemoglobin', 'Iron Deficiency', 'Pregnancy Nutrition', 'Chhattisgarh'];
 $post_prev      = ['title' => 'High Blood Pressure During Pregnancy', 'slug' => 'high-blood-pressure-during-pregnancy'];
 $post_next      = ['title' => 'Gestational Diabetes During Pregnancy', 'slug' => 'gestational-diabetes-during-pregnancy'];
