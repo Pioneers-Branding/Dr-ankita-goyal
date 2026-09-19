@@ -3,7 +3,7 @@ $post_title     = 'High-Risk Pregnancy: What You Should Know Before Delivery';
 $post_category  = 'Pregnancy';
 $post_date      = 'March 20, 2025';
 $post_read_time = '5 min read';
-$post_image     = 'images/pregnancy-hero.png';
+$post_image = 'images/Dr. Ankita Goyal Bansal - High-Risk Pregnancy Warning Signs.png';
 $post_tags      = ['High-Risk Pregnancy', 'Maternal Health', 'Prenatal Care', 'Delivery', "Women's Health"];
 $post_prev      = ['title' => '7 Signs of Uterine Fibroids', 'slug' => '7-signs-of-uterine-fibroids'];
 $post_next      = ['title' => 'Ovarian Cysts: When to See a Doctor?', 'slug' => 'ovarian-cysts-when-to-see-doctor'];
