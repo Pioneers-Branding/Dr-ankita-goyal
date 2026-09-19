@@ -8,7 +8,7 @@ $post_title     = 'Gestational Diabetes During Pregnancy: What It Means for Moth
 $post_category  = 'Pregnancy Care';
 $post_date      = 'September 19, 2026';
 $post_read_time = '9 min read';
-$post_image     = 'images/gestational-diabetes-during-pregnancy.jpg';
+$post_image     = 'images/Dr. Ankita Goyal Bansal - Gestational Diabetes During Pregnancy.png';
 $post_tags      = ['Gestational Diabetes', 'Blood Sugar', 'Pregnancy Diet', 'High-Risk Pregnancy', 'Chhattisgarh'];
 $post_prev      = ['title' => 'Low Hemoglobin During Pregnancy', 'slug' => 'low-hemoglobin-during-pregnancy'];
 $post_next      = null;
