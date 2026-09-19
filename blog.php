@@ -10,7 +10,7 @@ $blogs = [
     'date' => 'September 19, 2026',
     'title' => 'Gestational Diabetes During Pregnancy',
     'excerpt' => 'Learn about gestational diabetes during pregnancy, screening, risk factors, possible complications and the importance of regular medical care.',
-    'slug' => 'blog/gestational-diabetes-during-pregnancy.php',
+    'slug' => 'blog/gestational-diabetes-during-pregnancy',
 ],
 
 [
