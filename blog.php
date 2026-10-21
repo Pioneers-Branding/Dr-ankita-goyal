@@ -5,6 +5,15 @@ require_once 'header.php';
 
 $blogs = [
     [
+    'image' => 'images/laparoscopic-hysterectomy-guide.jpg',
+    'category' => 'Surgery',
+    'date' => 'October 21, 2026',
+    'title' => 'Laparoscopic Hysterectomy: Who Needs It and What Recovery Looks Like',
+    'excerpt' => 'When a hysterectomy is genuinely needed, the alternatives to ask about, what happens to your ovaries, and week by week laparoscopic recovery.',
+    'slug' => 'blog/laparoscopic-hysterectomy-guide',
+],
+
+    [
     'image' => 'images/normal-delivery-vs-c-section.jpg',
     'category' => 'Pregnancy Care',
     'date' => 'October 21, 2026',
