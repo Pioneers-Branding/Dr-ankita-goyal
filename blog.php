@@ -4,12 +4,22 @@ $base_url   = './';
 require_once 'header.php';
 
 $blogs = [
-    [
+  [
+    'image' => 'images/best-gynecologist-in-raipur.jpg',
+    'category' => "Women's Health",
+    'date' => 'October 21, 2026',
+    'title' => 'Best Gynecologist in Raipur, Chhattisgarh: How to Choose the Right One',
+    'excerpt' => 'Qualifications to check, consultation fees, preparing for your first visit and when a second opinion is worth getting.',
+    'slug' => 'blog/best-gynecologist-in-raipur',
+],
+
+
+[
     'image' => 'images/best-3d-laparoscopic-surgeon-in-chhattisgarh.jpg',
     'category' => "Women's Health",
     'date' => 'October 21, 2026',
-    'title' => 'Best Gynecologist in Chhattisgarh: A Complete Guide for Women',
-    'excerpt' => 'Anaemia, sickle cell, PCOS, fibroids, pregnancy care and keyhole surgery. What to look for in a gynecologist across the state.',
+    'title' => 'Best 3D Laparoscopic Surgeon in Raipur in Chhattisgarh: Dr. Ankita Bansal Goyal',
+    'excerpt' => 'Keyhole gynaecological surgery in Chhattisgarh: what it treats, how to judge a surgeon, and open versus laparoscopic recovery and costs.',
     'slug' => 'blog/best-3d-laparoscopic-surgeon-in-chhattisgarh',
 ],
      [
