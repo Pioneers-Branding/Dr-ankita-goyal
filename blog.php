@@ -4,13 +4,13 @@ $base_url   = './';
 require_once 'header.php';
 
 $blogs = [
-     [
-    'image' => 'images/best-gynecologist-in-chhattisgarh.jpg',
+    [
+    'image' => 'images/best-3d-laparoscopic-surgeon-in-chhattisgarh.jpg',
     'category' => "Women's Health",
     'date' => 'October 21, 2026',
     'title' => 'Best Gynecologist in Chhattisgarh: A Complete Guide for Women',
     'excerpt' => 'Anaemia, sickle cell, PCOS, fibroids, pregnancy care and keyhole surgery. What to look for in a gynecologist across the state.',
-    'slug' => 'blog/best-gynecologist-in-chhattisgarh',
+    'slug' => 'blog/best-3d-laparoscopic-surgeon-in-chhattisgarh',
 ],
      [
     'image' => 'images/best-3d-laparoscopic-surgeon-in-raipur.jpg',
