@@ -10,7 +10,7 @@ $blogs = [
     'date' => 'October 21, 2026',
     'title' => 'Best 3D Laparoscopic Surgeon in Raipur - Dr. Ankita Bansal Goyal',
     'excerpt' => 'How to judge a surgeon, what the 3D Rubina laser system does, recovery times, costs and what to plan if travelling from Raipur.',
-    'slug' => 'best-3d-laparoscopic-surgeon-in-raipur',
+    'slug' => 'blog/best-3d-laparoscopic-surgeon-in-raipur',
 ],
      [
     'image' => 'images/Dr. Ankita Goyal Bansal - Gestational Diabetes During Pregnancy.png',
