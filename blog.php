@@ -4,6 +4,14 @@ $base_url   = './';
 require_once 'header.php';
 
 $blogs = [
+    [
+    'image' => 'images/normal-delivery-vs-c-section.jpg',
+    'category' => 'Pregnancy Care',
+    'date' => 'October 21, 2026',
+    'title' => 'Normal Delivery or C-Section: Cost, Recovery and How to Decide',
+    'excerpt' => 'What each involves, recovery times, costs, when a C-section is genuinely needed and how to improve your chance of a normal birth.',
+    'slug' => 'blog/normal-delivery-vs-c-section',
+],
 [
     'image' => 'images/Best Gynecologist in Chhattisgarh Dr Ankita.jpg',
     'category' => "Women's Health",
