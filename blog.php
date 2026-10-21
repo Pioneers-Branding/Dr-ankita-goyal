@@ -4,7 +4,7 @@ $base_url   = './';
 require_once 'header.php';
 
 $blogs = [
-  [
+[
     'image' => 'images/best-gynecologist-in-chhattisgarh.jpg',
     'category' => "Women's Health",
     'date' => 'October 21, 2026',
@@ -12,6 +12,7 @@ $blogs = [
     'excerpt' => 'Anaemia, sickle cell, PCOS, fibroids, pregnancy care and keyhole surgery. What to look for in a gynecologist across the state.',
     'slug' => 'blog/best-gynecologist-in-chhattisgarh',
 ],
+
 
   [
     'image' => 'images/best-gynecologist-in-raipur.jpg',
