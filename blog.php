@@ -247,6 +247,14 @@ $blogs = [
         'excerpt'  => 'Fertility, hormone levels, and cycle patterns all shift after 35. Learn how to stay proactive about your reproductive health at every stage.',
         'slug'     => 'blog/reproductive-health-after-35',
     ],
+     [
+    'image' => 'images/best-3d-laparoscopic-surgeon-in-raipur.jpg',
+    'category' => 'Laparoscopy',
+    'date' => 'October 21, 2026',
+    'title' => 'Best 3D Laparoscopic Surgeon in Raipur - Dr. Ankita Bansal Goyal',
+    'excerpt' => 'How to judge a surgeon, what the 3D Rubina laser system does, recovery times, costs and what to plan if travelling from Raipur.',
+    'slug' => 'best-3d-laparoscopic-surgeon-in-raipur',
+],
   
 ];
 
