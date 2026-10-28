@@ -8,7 +8,7 @@ $post_title     = 'Trying to Conceive for a Year? When to See a Fertility Specia
 $post_category  = 'Fertility';
 $post_date      = 'October 21, 2026';
 $post_read_time = '9 min read';
-$post_image     = 'images/when-to-see-infertility-specialist.jpg';
+$post_image     = 'images/when-to-see-infertility-specialist-doctor.jpg';
 $post_tags      = ['Infertility', 'Fertility', 'Conception', 'IVF', 'Ovulation'];
 $post_prev      = ['title' => 'Laparoscopic Hysterectomy Guide', 'slug' => 'laparoscopic-hysterectomy-guide'];
 $post_next      = ['title' => 'Ovarian Cysts: Which Need Surgery', 'slug' => 'ovarian-cyst-treatment-guide'];
