@@ -57,7 +57,7 @@ require_once 'header.php';
     <div class="container">
         <div class="about-grid">
             <div class="about-image">
-                <img src="images/dr-ankita-improved.png" alt="Dr. Ankita Bansal Goyal" class="about-img">
+                <img src="images/dr-ankita-bansal-goyal-gynecologist-ambikapur.png" alt="Dr. Ankita Bansal Goyal Gynecologist in Ambikapur" class="about-img">
             </div>
             <div class="about-content">
                 <span class="section-subtitle">ABOUT DR. ANKITA BANSAL GOYAL</span>
