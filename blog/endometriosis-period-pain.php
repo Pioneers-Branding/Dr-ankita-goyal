@@ -8,7 +8,7 @@ $post_title     = 'Endometriosis: Why Severe Period Pain Is Not Something to Liv
 $post_category  = 'Endometriosis';
 $post_date      = 'October 21, 2026';
 $post_read_time = '9 min read';
-$post_image     = 'images/endometriosis-period-pain.png';
+$post_image     = 'images/endometriosis-period-pain.jpg';
 $post_tags      = ['Endometriosis', 'Period Pain', 'Pelvic Pain', 'Fertility', 'Womens Health'];
 $post_prev      = ['title' => 'Ovarian Cysts: Which Need Surgery', 'slug' => 'ovarian-cyst-treatment-guide'];
 $post_next      = ['title' => 'Your Pregnancy Checkup Schedule', 'slug' => 'pregnancy-checkup-schedule'];
