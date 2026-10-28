@@ -8,7 +8,7 @@ $post_title     = 'Your Pregnancy Checkup Schedule: Every Scan and Test, Month b
 $post_category  = 'Pregnancy Care';
 $post_date      = 'October 21, 2026';
 $post_read_time = '9 min read';
-$post_image     = 'images/pregnancy-checkup-schedule.png';
+$post_image     = 'images/pregnancy-checkup-schedule.jpg';
 $post_tags      = ['Antenatal Care', 'Pregnancy Scans', 'Pregnancy Tests', 'Trimester', 'Pregnancy Care'];
 $post_prev      = ['title' => 'Endometriosis and Severe Period Pain', 'slug' => 'endometriosis-period-pain'];
 $post_next      = null;
