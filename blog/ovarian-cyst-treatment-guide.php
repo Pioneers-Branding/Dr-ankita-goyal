@@ -8,7 +8,7 @@ $post_title     = 'Ovarian Cysts: Which Ones Need Surgery and Which Can Wait';
 $post_category  = 'Surgery';
 $post_date      = 'October 21, 2026';
 $post_read_time = '8 min read';
-$post_image     = 'images/ovarian-cyst-treatment-guide.png';
+$post_image     = 'images/ovarian-cyst-treatment-guide.jpg';
 $post_tags      = ['Ovarian Cyst', 'Laparoscopy', 'Womens Health', 'Surgery', 'Pelvic Pain'];
 $post_prev      = ['title' => 'When to See a Fertility Specialist', 'slug' => 'when-to-see-infertility-specialist'];
 $post_next      = ['title' => 'Endometriosis and Severe Period Pain', 'slug' => 'endometriosis-period-pain'];
