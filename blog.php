@@ -5,6 +5,14 @@ require_once 'header.php';
 
 $blogs = [
     [
+    'image' => 'images/when-to-see-infertility-specialist.jpg',
+    'category' => 'Fertility',
+    'date' => 'October 21, 2026',
+    'title' => 'Trying to Conceive for a Year? When to See a Fertility Specialist',
+    'excerpt' => 'When fertility testing is warranted, the tests both partners need, treatment from ovulation induction to IVF, and the myths that delay diagnosis.',
+    'slug' => 'blog/when-to-see-infertility-specialist',
+],
+    [
     'image' => 'images/laparoscopic-hysterectomy-guide.jpg',
     'category' => 'Surgery',
     'date' => 'October 21, 2026',
