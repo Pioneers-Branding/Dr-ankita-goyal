@@ -5,6 +5,14 @@ require_once 'header.php';
 
 $blogs = [
    [
+    'image' => 'images/endometriosis-period-pain.jpg',
+    'category' => 'Endometriosis',
+    'date' => 'October 21, 2026',
+    'title' => 'Endometriosis: Why Severe Period Pain Is Not Something to Live With',
+    'excerpt' => 'Endometriosis takes years to diagnose because severe period pain gets dismissed. Symptoms, diagnosis, treatment options and the effect on fertility.',
+    'slug' => 'blog/endometriosis-period-pain',
+],
+   [
     'image' => 'images/ovarian-cyst-treatment-guide.jpg',
     'category' => 'Surgery',
     'date' => 'October 21, 2026',
