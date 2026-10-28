@@ -5,6 +5,14 @@ require_once 'header.php';
 
 $blogs = [
    [
+    'image' => 'images/ovarian-cyst-treatment-guide.jpg',
+    'category' => 'Surgery',
+    'date' => 'October 21, 2026',
+    'title' => 'Ovarian Cysts: Which Ones Need Surgery and Which Can Wait',
+    'excerpt' => 'Most ovarian cysts disappear on their own. Which types need surgery, what size matters, warning signs of torsion, and how surgery preserves the ovary.',
+    'slug' => 'blog/ovarian-cyst-treatment-guide',
+],
+   [
     'image' => 'images/when-to-see-infertility-specialist-doctor.jpg',
     'category' => 'Fertility',
     'date' => 'October 21, 2026',
