@@ -4,8 +4,8 @@ $base_url   = './';
 require_once 'header.php';
 
 $blogs = [
-    [
-    'image' => 'images/when-to-see-infertility-specialist.jpg',
+   [
+    'image' => 'images/when-to-see-infertility-specialist-doctor.jpg',
     'category' => 'Fertility',
     'date' => 'October 21, 2026',
     'title' => 'Trying to Conceive for a Year? When to See a Fertility Specialist',
