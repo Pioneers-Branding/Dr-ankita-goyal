@@ -10,7 +10,7 @@ $blogs = [
     'date' => 'October 21, 2026',
     'title' => 'Your Pregnancy Checkup Schedule: Every Scan and Test, Month by Month',
     'excerpt' => 'A complete antenatal schedule from the first visit to delivery: which scan happens when, which blood tests matter, and warning signs at each stage.',
-    'slug' => 'pregnancy-checkup-schedule',
+    'slug' => 'blog/pregnancy-checkup-schedule',
 ],
    [
     'image' => 'images/endometriosis-period-pain.jpg',
