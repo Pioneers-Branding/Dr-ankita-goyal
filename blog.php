@@ -5,6 +5,14 @@ require_once 'header.php';
 
 $blogs = [
    [
+    'image' => 'images/Best%20Gynecologist%20in%20Chhattisgarh%20Dr%20Ankita.jpg',
+    'category' => "Women's Health",
+    'date' => 'November 14, 2026',
+    'title' => 'Best Gynecologist Doctor in Chhattisgarh: A City by City Guide',
+    'excerpt' => 'Where to find a gynecologist across Chhattisgarh district by district, covering Ambikapur, Surguja, Raipur, Bilaspur and Korba, and what to check first.',
+    'slug' => 'blog/best-gynecologist-doctor-in-chhattisgarh',
+],
+   [
     'image' => 'images/best-3d-laparoscopic-surgeon-in-surguja.jpg',
     'category' => 'Laparoscopy',
     'date' => 'November 14, 2026',
