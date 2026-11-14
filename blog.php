@@ -5,6 +5,14 @@ require_once 'header.php';
 
 $blogs = [
    [
+    'image' => 'images/best-gynecologist-in-surguja.jpg',
+    'category' => "Women's Health",
+    'date' => 'November 14, 2026',
+    'title' => 'Best Gynecologist in Surguja: A Complete Guide for Women in the District',
+    'excerpt' => 'Pregnancy care, PCOS, fibroids and keyhole surgery for women across Surguja district, with travel and delivery planning advice for the blocks.',
+    'slug' => 'blog/best-gynecologist-in-surguja',
+],
+   [
     'image' => 'images/pregnancy-checkup-schedule.jpg',
     'category' => 'Pregnancy Care',
     'date' => 'October 21, 2026',
