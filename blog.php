@@ -5,6 +5,14 @@ require_once 'header.php';
 
 $blogs = [
    [
+    'image' => 'images/best-3d-laparoscopic-surgeon-in-surguja.jpg',
+    'category' => 'Laparoscopy',
+    'date' => 'November 14, 2026',
+    'title' => 'Best 3D Laparoscopic Surgeon in Surguja - Dr. Ankita Bansal Goyal',
+    'excerpt' => 'Keyhole gynaecological surgery in Surguja district: what it treats, how to judge a surgeon, and recovery in two weeks instead of six.',
+    'slug' => 'blog/best-3d-laparoscopic-surgeon-in-surguja',
+],
+   [
     'image' => 'images/best-gynecologist-in-surguja.jpg',
     'category' => "Women's Health",
     'date' => 'November 14, 2026',
